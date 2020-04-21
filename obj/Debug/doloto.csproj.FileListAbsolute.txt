@@ -1,0 +1,11 @@
+C:\Users\kirch\source\repos\doloto\bin\Debug\doloto.exe.config
+C:\Users\kirch\source\repos\doloto\bin\Debug\doloto.exe
+C:\Users\kirch\source\repos\doloto\bin\Debug\doloto.pdb
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.csprojAssemblyReference.cache
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.Properties.Resources.resources
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.csproj.GenerateResource.cache
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.csproj.CoreCompileInputs.cache
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.exe
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.pdb
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.Auth.resources
+C:\Users\kirch\source\repos\doloto\obj\Debug\doloto.Order.resources
